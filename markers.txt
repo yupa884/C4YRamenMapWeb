@@ -1,0 +1,2 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+35.68154865963232	139.76506233215332	吉村屋	1974年オープンの老舗。席数30席。駐車場なし	pin.png	42,64	-21,-64
